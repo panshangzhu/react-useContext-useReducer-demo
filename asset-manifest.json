@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pan-number-counter/static/css/main.9dd68797.chunk.css",
+    "main.js": "/pan-number-counter/static/js/main.36742d3a.chunk.js",
+    "main.js.map": "/pan-number-counter/static/js/main.36742d3a.chunk.js.map",
+    "runtime-main.js": "/pan-number-counter/static/js/runtime-main.a75e3991.js",
+    "runtime-main.js.map": "/pan-number-counter/static/js/runtime-main.a75e3991.js.map",
+    "static/js/2.fa61288e.chunk.js": "/pan-number-counter/static/js/2.fa61288e.chunk.js",
+    "static/js/2.fa61288e.chunk.js.map": "/pan-number-counter/static/js/2.fa61288e.chunk.js.map",
+    "index.html": "/pan-number-counter/index.html",
+    "precache-manifest.857bc6d44b968ea1c37d520aa977e958.js": "/pan-number-counter/precache-manifest.857bc6d44b968ea1c37d520aa977e958.js",
+    "service-worker.js": "/pan-number-counter/service-worker.js",
+    "static/css/main.9dd68797.chunk.css.map": "/pan-number-counter/static/css/main.9dd68797.chunk.css.map",
+    "static/js/2.fa61288e.chunk.js.LICENSE.txt": "/pan-number-counter/static/js/2.fa61288e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a75e3991.js",
+    "static/js/2.fa61288e.chunk.js",
+    "static/css/main.9dd68797.chunk.css",
+    "static/js/main.36742d3a.chunk.js"
+  ]
+}

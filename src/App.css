@@ -4,8 +4,11 @@
 }
 .result{
   color:red;
+  font-size: 1.5rem;
 }
 button{
   width:50px;
   margin:16px 9px;
+  outline: none;
+  background-color: bisque;
 }

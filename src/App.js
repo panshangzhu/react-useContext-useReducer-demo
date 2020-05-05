@@ -8,7 +8,7 @@ import Context from './components/Context'
 function App() {
   return (
       <div className="App">
-      <h1>Reacr useReducer and useContext Demo By Pan</h1>
+      <h1>Pan Number Counter  </h1>
       <Context>
       <ComponentA />
       <ComponentC />
